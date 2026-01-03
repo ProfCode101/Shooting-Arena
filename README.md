@@ -133,5 +133,7 @@ This project is open source and available for educational purposes.
 
 ## Author
 
-Created as a 3D graphics and game development project.
+Created as a 3D graphics and game development project. 
+
+## Email : tasnimdrmc6461@gmail.com
 
